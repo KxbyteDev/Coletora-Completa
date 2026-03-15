@@ -1,29 +1,78 @@
-# Coletora-Completa
+# Coletora Completa
 
-![C#](https://img.shields.io/badge/C%23-100%25-blue.svg)
-![Language](https://img.shields.io/badge/Made%20with-C%23-purple.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Language](https://img.shields.io/badge/Linguagem-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Platform](https://img.shields.io/badge/Plataforma-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Gerador de ferramentas para Windows e Linux (Linux não tenho 100% certeza porque ainda não consegui testar).
+> Ferramenta completa para **conversão de dados, criptografia e geração de segurança**.
 
-Ferramentas incluídas no programa:
+---
 
-1 - Texto -> Morse
-2 - Morse -> Texto
-3 - Texto -> Binario
-4 - Binario -> Texto
-5 - Criptografar Texto
-6 - Descriptografar Texto
-7 - Gerador de Senha
-8 - Gerador de Palavra-Chave
-9 - Limpar Tela
-10 - Sair
+## Sobre o Projeto
 
-O programa foi feito em **C# puro**.
+**Coletora Completa** é um software desenvolvido **100% em C#**, criado exclusivamente para o sistema **Windows**.
 
-No momento ele foi testado principalmente no **Windows**.
-O suporte para **Linux** pode funcionar, mas ainda não foi testado completamente.
+O objetivo do programa é fornecer diversas ferramentas úteis para manipulação de texto, conversões e geração de dados seguros em um único aplicativo simples e eficiente.
 
-Se alguém quiser ajudar a melhorar o projeto ou adaptar melhor para Linux, pode contribuir.
+---
 
-Autor: **Kxbyte**
+## Imagens do Projeto
+
+### C# Development
+![CSharp](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.svg)
+
+### Windows Only
+![Windows](https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg)
+
+---
+
+## Funcionalidades
+
+O programa possui **8 ferramentas principais**:
+
+### Conversões
+- 1️⃣ Texto → Morse  
+- 2️⃣ Morse → Texto  
+- 3️⃣ Texto → Binário  
+- 4️⃣ Binário → Texto  
+
+### Segurança
+- 5️⃣ Criptografar Texto  
+- 6️⃣ Descriptografar Texto  
+
+### Geradores
+- 7️⃣ Gerador de Senha  
+- 8️⃣ Gerador de Palavra-Chave  
+
+---
+
+## Tecnologias Utilizadas
+
+- **C#**
+- **.NET**
+- Interface desenvolvida para **Windows**
+
+---
+
+## Plataforma
+
+Este software foi desenvolvido **exclusivamente para Windows**.
+
+Não possui suporte para:
+
+- Linux
+- macOS
+- Mobile
+
+---
+
+## Autor
+
+Desenvolvido por:
+
+**Kxbyte**
+
+---
+
+## Licença
+
+Este projeto está disponível para uso conforme definido pelo autor.
