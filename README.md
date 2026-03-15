@@ -18,7 +18,7 @@ O objetivo do programa é fornecer diversas ferramentas úteis para manipulaçã
 ## Imagens do Projeto
 
 ### C# Development
-![CSharp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="120">
 
 ### Windows Only
 ![Windows](https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg)
