@@ -30,18 +30,18 @@ O objetivo do programa é fornecer diversas ferramentas úteis para manipulaçã
 O programa possui **8 ferramentas principais**:
 
 ### Conversões
-- 1️⃣ Texto → Morse  
-- 2️⃣ Morse → Texto  
-- 3️⃣ Texto → Binário  
-- 4️⃣ Binário → Texto  
+-  Texto → Morse  
+-  Morse → Texto  
+-  Texto → Binário  
+-  Binário → Texto  
 
 ### Segurança
-- 5️⃣ Criptografar Texto  
-- 6️⃣ Descriptografar Texto  
+-  Criptografar Texto  
+-  Descriptografar Texto  
 
 ### Geradores
-- 7️⃣ Gerador de Senha  
-- 8️⃣ Gerador de Palavra-Chave  
+-  Gerador de Senha  
+-  Gerador de Palavra-Chave  
 
 ---
 
@@ -76,3 +76,13 @@ Desenvolvido por:
 ## Licença
 
 Este projeto está disponível para uso conforme definido pelo autor.
+
+---
+
+## Segurança
+
+Este software foi desenvolvido com foco em utilidade e segurança para usuários.
+
+O programa **não contém vírus, malware ou qualquer tipo de código malicioso**.
+
+Você pode baixar, executar e utilizar o software normalmente em seu computador.
